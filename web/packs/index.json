@@ -2,7 +2,8 @@
   "packs": [
     "hello-kitty.json",
     "etc.json",
-    "milk-mocha.json"
+    "milk-mocha.json",
+    "pokemon.json"
   ],
   "homeserver_url": "https://matrix.coinblock25.com"
 }
