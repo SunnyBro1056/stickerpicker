@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "hello-kitty.json"
+  ],
+  "homeserver_url": "https://matrix.coinblock25.com"
+}
